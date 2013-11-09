@@ -9,14 +9,14 @@ TODO: Handle errors for POST requests
 <ol>
     <li>Set up a web server with web/ as the document root</li>
     <li>Install the vendors:</li>
-    <ol>
-        <ul>curl -s http://getcomposer.org/installer | php</ul>
-        <ul>php composer.phar install</ul>
-    </ol>
+    <ul>
+        <li>curl -s http://getcomposer.org/installer | php</li>
+        <li>php composer.phar install</li>
+    </ul>
     <li>Install the bundles:</li>
-    <ol>
-        <ul>php app/console assets:install</ul>
-    </ol>
+    <ul>
+        <li>php app/console assets:install</li>
+    </ul>
 </ol>
 
 Then you should be able to get the home page at http://\<Your_Server_Name\>/
