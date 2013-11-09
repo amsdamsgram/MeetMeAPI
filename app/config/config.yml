@@ -65,6 +65,3 @@ fos_rest:
         default_engine: php
         formats:
             json: true
-
-sensio_framework_extra:
-    view: { annotations: false }
