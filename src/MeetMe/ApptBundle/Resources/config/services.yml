@@ -1,0 +1,7 @@
+parameters:
+#    meet_me_appt.example.class: MeetMe\ApptBundle\Example
+
+services:
+#    meet_me_appt.example:
+#        class: %meet_me_appt.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

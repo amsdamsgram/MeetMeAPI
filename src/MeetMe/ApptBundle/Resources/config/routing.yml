@@ -1,0 +1,8 @@
+_appt:
+    resource: "@MeetMeApptBundle/Controller/AppointmentController.php"
+    type:     annotation
+    prefix:   /
+
+_api:
+   type: rest
+   resource: "@MeetMeApptBundle/Controller/APIController.php"

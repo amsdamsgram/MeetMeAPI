@@ -1,0 +1,4 @@
+meet_me_appt:
+    resource: "@MeetMeApptBundle/Resources/config/routing.yml"
+    prefix:   /
+
